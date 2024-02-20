@@ -4,9 +4,10 @@ function App() {
   return (
     <>
       <Player />
-      <div id="challenges"></div>
+      <div id='challenges'></div>
     </>
   );
 }
 
 export default App;
+3;
